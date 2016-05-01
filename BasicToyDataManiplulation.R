@@ -1,3 +1,6 @@
+'# In this exercise, will work with a toy data set showing product purchases from 
+an electronic#'
+
 library(dplyr)
 
 # Load "refine_original.csv" data
